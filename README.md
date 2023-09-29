@@ -11,8 +11,3 @@ FEATURES​
 → My Todos:  My Todos will display all the todos in our list. ​
 
 → About:  It shows the implementation of pomodoro technique.  
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
